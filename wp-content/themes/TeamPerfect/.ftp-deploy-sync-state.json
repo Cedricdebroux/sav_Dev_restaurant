@@ -1,0 +1,475 @@
+{
+    "description": "DO NOT DELETE THIS FILE. This file is used to keep track of which files have been synced in the most recent deployment. If you delete this file a resync will need to be done (which can take a while) - read more: https://github.com/SamKirkland/FTP-Deploy-Action",
+    "version": "1.0.0",
+    "generatedTime": 1611386462707,
+    "data": [
+        {
+            "type": "folder",
+            "name": ".vscode"
+        },
+        {
+            "type": "file",
+            "name": "404.php",
+            "size": 303,
+            "hash": "a0e4dfddc3f3d73cbba749f5f2a5daaeda68c047329f49491dc235901c7eac84"
+        },
+        {
+            "type": "file",
+            "name": "README.md",
+            "size": 15,
+            "hash": "2c08b9b044992e565ee1feaefe2e0a3e57c51c5eb746bbfd9517c031095cb91b"
+        },
+        {
+            "type": "file",
+            "name": "archive-recipes-post.php",
+            "size": 563,
+            "hash": "37bbb4df235c01d10d5b00a41e05c8cc87e96b8af3f030cf201909c6ce39eae6"
+        },
+        {
+            "type": "file",
+            "name": "archive-restaurants.php",
+            "size": 589,
+            "hash": "4fbe515a97c7ab83766b183e83b129ea1a3f46c12646af6ef67d60866216ae2b"
+        },
+        {
+            "type": "file",
+            "name": "archive.php",
+            "size": 607,
+            "hash": "a67911ff9229ad8347b8be221e1eee068dd4ebd3fd6d6e007ae4d98635abea9e"
+        },
+        {
+            "type": "folder",
+            "name": "assets"
+        },
+        {
+            "type": "file",
+            "name": "attachment.php",
+            "size": 928,
+            "hash": "38e327bb47366b57c9a13d5fe01cc90aba60d6e54be2d484bf6c3f905efdb158"
+        },
+        {
+            "type": "file",
+            "name": "author.php",
+            "size": 755,
+            "hash": "489e29eb7aa63c0cbdb06a53ffbb837c719af50f922b51de282c4b6c3dd3e961"
+        },
+        {
+            "type": "file",
+            "name": "category-excerpt.php",
+            "size": 740,
+            "hash": "8672553eee698794f145844fc15371da0630716b7fe21d4aedd51d06556d0800"
+        },
+        {
+            "type": "file",
+            "name": "category.php",
+            "size": 646,
+            "hash": "076ea18f2a026411faf3c043d4650ccae69f47cec2b5c4b4f712ed4b2d4cc02a"
+        },
+        {
+            "type": "file",
+            "name": "class-wp-bootstrap-navwalker.php",
+            "size": 22090,
+            "hash": "55a32756633ed37330672d05074e4d7f1ec260cfbac9e4d97bfeae602af9f6f5"
+        },
+        {
+            "type": "file",
+            "name": "comments.php",
+            "size": 3200,
+            "hash": "ba0706c8dc421f635933a9a54edf216cb93d2ea32a0033bdcb7cee6ac5244ff1"
+        },
+        {
+            "type": "file",
+            "name": "date.php",
+            "size": 579,
+            "hash": "b04ccd26536aa5c0ff6c10b08d95bc6b6c81a18b56765cfcc99420b375153a3a"
+        },
+        {
+            "type": "file",
+            "name": "footer-splash.php",
+            "size": 242,
+            "hash": "ba6112b63071b7588c2057f6e42779a1f9cc71f01cbc96e24cec93c7679f3f94"
+        },
+        {
+            "type": "file",
+            "name": "front-page.php",
+            "size": 479,
+            "hash": "5241335bae448dfe1a0a93615f6aac08fae4c85c2cb222f674d0465de367b461"
+        },
+        {
+            "type": "file",
+            "name": "footer.php",
+            "size": 8143,
+            "hash": "4b02d80423f225af5b03f87348ba3caee7e8d00621db594a93a4b7178ffe408f"
+        },
+        {
+            "type": "file",
+            "name": "functions.php",
+            "size": 8417,
+            "hash": "d61eba02430f8096cf1e4b02cc3ea929bfc2ecd0598114f2b442173d81805efd"
+        },
+        {
+            "type": "file",
+            "name": "header-splash.php",
+            "size": 2164,
+            "hash": "d573949f3b76f952e3e01bb20f23d03fc6abbe339309c5288e5ad89dd749f90e"
+        },
+        {
+            "type": "file",
+            "name": "header.php",
+            "size": 1965,
+            "hash": "300a55290b5ad21681b1c06177ac5d25301dfdc930851e9011cf36cebcd1327e"
+        },
+        {
+            "type": "file",
+            "name": "home.php",
+            "size": 536,
+            "hash": "a8c1866086764f55d5f7116a76f8280a22fe6e3daea84e2b87972f233539e54d"
+        },
+        {
+            "type": "file",
+            "name": "image.php",
+            "size": 941,
+            "hash": "29d4dea1e019e4a65ca2d7937306764ae98a2ef34b8ca6ddbce5ae311bfd8d4f"
+        },
+        {
+            "type": "file",
+            "name": "index.php",
+            "size": 514,
+            "hash": "6ccbb61b9777aa35c404c11b58b3d2c41cc7bbeb50b4d6e8ec1b7057971290ec"
+        },
+        {
+            "type": "file",
+            "name": "page.php",
+            "size": 433,
+            "hash": "d851997af2d8efc3b6649f2acbe801bee6496d7f4dbcde3c1ef81646dfcced58"
+        },
+        {
+            "type": "file",
+            "name": "screenshot.png",
+            "size": 163610,
+            "hash": "b08a4a6587179438d55d6615f774ead65feca13aa01b6b628b42e14132816001"
+        },
+        {
+            "type": "file",
+            "name": "search.php",
+            "size": 646,
+            "hash": "a2203d8d752f0047dc086eb2194a41f384d264f508bb43a9391ae0f41a8c7623"
+        },
+        {
+            "type": "file",
+            "name": "sidebar-page.php",
+            "size": 189,
+            "hash": "e257529d4342a87fc8b3744bb98c55ba69f0cc6ec555fdb828b0ccea18a24b2a"
+        },
+        {
+            "type": "file",
+            "name": "sidebar-front-page.php",
+            "size": 185,
+            "hash": "b5a72ca7b43f1d8020f14da2c020ad1fa4d1fe5c19ad5b55149927b37790af27"
+        },
+        {
+            "type": "file",
+            "name": "sidebar.php",
+            "size": 189,
+            "hash": "229a16390b77a9e63fb7e517c0b62981620afcf24005fd4567ce2f13e72dc463"
+        },
+        {
+            "type": "file",
+            "name": "single-recipes-post.php",
+            "size": 3348,
+            "hash": "e1c0f3cdd8550e29a8d83f41041eebd26930566ca30e889a0f6f7a0be4a4d3db"
+        },
+        {
+            "type": "file",
+            "name": "single.php",
+            "size": 505,
+            "hash": "e28fd690a57ec0dd9bc5ae566818162c6f448de394bd37693fab2180eac6f111"
+        },
+        {
+            "type": "file",
+            "name": "single-restaurant.php",
+            "size": 1074,
+            "hash": "f69bbbaa5dcd00fbd67c0e43723a45a90e435e7203e51a9e771f3ed06cdfd135"
+        },
+        {
+            "type": "file",
+            "name": "singular.php",
+            "size": 481,
+            "hash": "ae98a49390f24af17f246c225894e5ec613f094234495f859fe6473f177d9b4b"
+        },
+        {
+            "type": "file",
+            "name": "style.css",
+            "size": 580,
+            "hash": "3caceabd493797f527179b9ee028800c25bc53868414fa6aab9de545b15da314"
+        },
+        {
+            "type": "file",
+            "name": "tag-wordpress.php",
+            "size": 721,
+            "hash": "ac0dcfffdd38064e5ac3e5febab847c9d22fed8a50b2aef13fa3f12f167f0d86"
+        },
+        {
+            "type": "file",
+            "name": "tag.php",
+            "size": 661,
+            "hash": "f61cb872dc491f2a10982a83b9d357d61287e34cf2083467ba9b1591b4a3db00"
+        },
+        {
+            "type": "file",
+            "name": "taxonomy-recipe_types.php",
+            "size": 544,
+            "hash": "5109839f346a39e37038f583fcedc8a0cec051bb04bb3668f44a1e317ea13b33"
+        },
+        {
+            "type": "file",
+            "name": "taxonomy.php",
+            "size": 588,
+            "hash": "88cf79b564cb4af16aa7025637ec37e87dd9a6e073850407748cf67fcd02c2f1"
+        },
+        {
+            "type": "file",
+            "name": "template-full-width.php",
+            "size": 569,
+            "hash": "016e81ad2e1af7ddc526d3becf8506abd484d27ccf2e828e8ae974114da76628"
+        },
+        {
+            "type": "folder",
+            "name": "template-parts"
+        },
+        {
+            "type": "file",
+            "name": "template-splash.php",
+            "size": 592,
+            "hash": "4ce0bc13e5f8a63877494864b83f02cc5d626ea47039fa0291ff6e2a606503b3"
+        },
+        {
+            "type": "file",
+            "name": ".vscode/launch.json",
+            "size": 253,
+            "hash": "6e11474a220dbd8f071d59f01ac9e6545979722c3e671538873fa26e70cd7027"
+        },
+        {
+            "type": "folder",
+            "name": "assets/css"
+        },
+        {
+            "type": "folder",
+            "name": "assets/image"
+        },
+        {
+            "type": "folder",
+            "name": "assets/js"
+        },
+        {
+            "type": "file",
+            "name": "template-parts/content-none.php",
+            "size": 564,
+            "hash": "516eb5799c559db59a2d29a2faae4881e5f68fb16f34e3287d0c576a7293794a"
+        },
+        {
+            "type": "file",
+            "name": "template-parts/content-page.php",
+            "size": 5020,
+            "hash": "c12e14ac42463bbda7111c5150ad72854b8a90ec5be82c856af21975885762d1"
+        },
+        {
+            "type": "file",
+            "name": "template-parts/content-posts.php",
+            "size": 521,
+            "hash": "c75c46453b0bbcb8780b04a43f6464a12ece9c0f15f293be895921e7b584707a"
+        },
+        {
+            "type": "file",
+            "name": "template-parts/content-recipes.php",
+            "size": 2513,
+            "hash": "66bad0d2884eeddea2fa653b5dc158a74219f9e7cb06e52ed0e66f8306c74363"
+        },
+        {
+            "type": "file",
+            "name": "template-parts/content-search.php",
+            "size": 352,
+            "hash": "c807bba2369b9bc8000d11853548e9e714fa6e86c77e2dc1a41011d51b099f16"
+        },
+        {
+            "type": "file",
+            "name": "template-parts/content.php",
+            "size": 710,
+            "hash": "66da092ad2b38fd4e91a8c38009edafc0bce9d45256ecef1842b74282a2f4bb2"
+        },
+        {
+            "type": "file",
+            "name": "assets/css/bootstrap-grid.css",
+            "size": 67472,
+            "hash": "4751925ded4a19751b0792d191cc036c19e80b68ff52054605c4769b13a38c6f"
+        },
+        {
+            "type": "file",
+            "name": "assets/css/bootstrap-grid.css.map",
+            "size": 157643,
+            "hash": "874f93d34234989c1038624c7b73d065e576872c63d0618a364655298ce095ed"
+        },
+        {
+            "type": "file",
+            "name": "assets/css/bootstrap-grid.min.css",
+            "size": 50636,
+            "hash": "3b1f07f832f234b99bb32d2e9ce74ea434f9ac11a0b123479a88a2018be82b52"
+        },
+        {
+            "type": "file",
+            "name": "assets/css/bootstrap-grid.min.css.map",
+            "size": 115006,
+            "hash": "4a171ca0f03807349279db74d2252741f205c3e933ae915f3606aff6730bef05"
+        },
+        {
+            "type": "file",
+            "name": "assets/css/bootstrap-reboot.css",
+            "size": 4800,
+            "hash": "ee8e227fff14f05f29cd3dfbea704bcb547ddc7b1701b9be15cbfe6d2b2ebc9d"
+        },
+        {
+            "type": "file",
+            "name": "assets/css/bootstrap-reboot.css.map",
+            "size": 77215,
+            "hash": "a8538c7118b488fd7257d6ecdc8889174560163a175249c649e241a5627a048f"
+        },
+        {
+            "type": "file",
+            "name": "assets/css/bootstrap-reboot.min.css",
+            "size": 3935,
+            "hash": "da490cc622959bfdbc3ea4d8880212f5e377123215df046e6f092977a710c47d"
+        },
+        {
+            "type": "file",
+            "name": "assets/css/bootstrap-reboot.min.css.map",
+            "size": 32551,
+            "hash": "5c8c85d3a1c745d510996f23ec4bc8626d9ea3107dfa511e6c5e267fbacfb0e9"
+        },
+        {
+            "type": "file",
+            "name": "assets/css/bootstrap.css",
+            "size": 198240,
+            "hash": "2fd7f15e18740cacae91badbd1ccb819e431cdb510d8af3eef4510083de2e733"
+        },
+        {
+            "type": "file",
+            "name": "assets/css/bootstrap.css.map",
+            "size": 508537,
+            "hash": "06eb6a1bed644e283802abb0e6336e87d9a66bd65ff279cb712445420d85162b"
+        },
+        {
+            "type": "file",
+            "name": "assets/css/bootstrap.min.css",
+            "size": 160392,
+            "hash": "f77c0d1739b618edc4a01ca3f6b2990b01a3009030af49ee8cf68e83052df194"
+        },
+        {
+            "type": "file",
+            "name": "assets/css/bootstrap.min.css.map",
+            "size": 646986,
+            "hash": "c28f706a07f1bcefc642d11658365aa0d73a0c9082639792018e349eb760581a"
+        },
+        {
+            "type": "file",
+            "name": "assets/css/custom.css",
+            "size": 31,
+            "hash": "2a2a4e787049c6e4954fa9d3f511fcbbff20f16812d594bb78a6fb70ec94048b"
+        },
+        {
+            "type": "file",
+            "name": "assets/css/main.css",
+            "size": 19657,
+            "hash": "45858507fd855e483a74ddffedae7ccd1ac5c1855cd232e6302937dfcf53e329"
+        },
+        {
+            "type": "file",
+            "name": "assets/image/call (10).svg",
+            "size": 733,
+            "hash": "443103fa7e1da5f24987c8240a2966850ccd211c5d60f4501e92ec2fe3774fb2"
+        },
+        {
+            "type": "file",
+            "name": "assets/image/hachures-noires.png",
+            "size": 14485,
+            "hash": "3a67cbbb471eebad04b2865b0fa5dd4b0bd8d82062e8e04846be5c22a48d4023"
+        },
+        {
+            "type": "file",
+            "name": "assets/image/home-minimal.svg",
+            "size": 1956,
+            "hash": "05766ed6263c63d42089cd378acb5b6f470aba9d1cf75a45f46d12d785218c1b"
+        },
+        {
+            "type": "file",
+            "name": "assets/image/mail-1.svg",
+            "size": 1789,
+            "hash": "aadd1c2b8d203f75428a55fab339cbc78352bfb7b1604b876f7ce38c09d2aaa6"
+        },
+        {
+            "type": "file",
+            "name": "assets/image/place (14).svg",
+            "size": 681,
+            "hash": "6874d53ecbb0d636afd09601479eebb7bf13b61dd68d96b0f91234cc5db510ce"
+        },
+        {
+            "type": "file",
+            "name": "assets/js/bootstrap.bundle.js",
+            "size": 236517,
+            "hash": "53e98308b81393c20c6f5f3e7d04feb9cbcfef7b874cf686daa654f68eec9ad1"
+        },
+        {
+            "type": "file",
+            "name": "assets/js/bootstrap.bundle.js.map",
+            "size": 408140,
+            "hash": "60930e93b71c22feecea50cafda8d1bce0acd5e20a23967d5d11eceedac1a7d0"
+        },
+        {
+            "type": "file",
+            "name": "assets/js/bootstrap.bundle.min.js",
+            "size": 84152,
+            "hash": "8d7089253dca29c9cd8d9deb7ec69b0a3d445f88f6a26478c719be1f90adcb01"
+        },
+        {
+            "type": "file",
+            "name": "assets/js/bootstrap.bundle.min.js.map",
+            "size": 315680,
+            "hash": "b8d6db7eb175397a6f9ac4d23c52c838f21b24f3ea0481a847a5881a89456957"
+        },
+        {
+            "type": "file",
+            "name": "assets/js/bootstrap.js",
+            "size": 143687,
+            "hash": "3385403461b0226760fc4745c92db9df1da5ed62b7daddae55be55835a4ca3d6"
+        },
+        {
+            "type": "file",
+            "name": "assets/js/bootstrap.js.map",
+            "size": 253028,
+            "hash": "1c1075580998dfee38da4ceebc5f1be6d25730cd5ccfad71c24288cc09db5bac"
+        },
+        {
+            "type": "file",
+            "name": "assets/js/bootstrap.min.js",
+            "size": 63240,
+            "hash": "d8968086f7509df34c3278563dab87399da4f9dcdfb419818e3a309eedc70b88"
+        },
+        {
+            "type": "file",
+            "name": "assets/js/bootstrap.min.js.map",
+            "size": 191971,
+            "hash": "444d4eaeddb1ca33d5cf0dfb5ece372f264fb5089e4d0f2682b33fc4c7e3d71e"
+        },
+        {
+            "type": "file",
+            "name": "assets/js/footer.js",
+            "size": 588,
+            "hash": "5c7e791dc94ac332c3f254f12e5ca904b2af6d24e34652ba4d25b3c85051eab6"
+        },
+        {
+            "type": "file",
+            "name": "assets/js/theme.js",
+            "size": 133,
+            "hash": "053adab8313d00b8f191bc5bc449a2591f23fc2d44d0822a3eecb00cae4db0aa"
+        }
+    ]
+}

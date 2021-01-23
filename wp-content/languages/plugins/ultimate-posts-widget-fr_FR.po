@@ -1,0 +1,281 @@
+# Translation of Plugins - Ultimate Posts Widget - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Ultimate Posts Widget - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-11-14 09:32:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Ultimate Posts Widget - Stable (latest release)\n"
+
+#: ultimate-posts-widget.php:22
+msgid "Displays list of posts with an array of options"
+msgstr "Montrer la liste des articles avec un tableau d'options"
+
+#: ultimate-posts-widget.php:31 ultimate-posts-widget.php:269
+msgid "Ultimate Posts"
+msgstr "Ultimate Posts"
+
+#: ultimate-posts-widget.php:280
+msgid "Read more &rarr;"
+msgstr "Lire la suite &rarr;"
+
+#: ultimate-posts-widget.php:382
+msgid "General"
+msgstr "Général"
+
+#: ultimate-posts-widget.php:383
+msgid "Display"
+msgstr "Affichage"
+
+#: ultimate-posts-widget.php:384
+msgid "Filter"
+msgstr "Filtrer"
+
+#: ultimate-posts-widget.php:385 ultimate-posts-widget.php:608
+msgid "Order"
+msgstr "Ordre"
+
+#: ultimate-posts-widget.php:391 ultimate-posts-widget.php:594
+msgid "Title"
+msgstr "Titre"
+
+#: ultimate-posts-widget.php:396
+msgid "Title URL"
+msgstr "URL du titre"
+
+#: ultimate-posts-widget.php:401
+msgid "CSS class"
+msgstr "classe CSS"
+
+#: ultimate-posts-widget.php:406
+msgid "Before posts"
+msgstr "Avant les articles"
+
+#: ultimate-posts-widget.php:411
+msgid "After posts"
+msgstr "Après les articles"
+
+#: ultimate-posts-widget.php:420
+msgid "Template"
+msgstr "Template"
+
+#: ultimate-posts-widget.php:422
+msgid "Legacy"
+msgstr "Legacy"
+
+#: ultimate-posts-widget.php:423
+msgid "Standard"
+msgstr "Standard"
+
+#: ultimate-posts-widget.php:424
+msgid "Custom"
+msgstr "Personnalisée"
+
+#: ultimate-posts-widget.php:429
+msgid "Custom Template Name"
+msgstr "Nom de la template personnalisée"
+
+#: ultimate-posts-widget.php:434
+msgid "Number of posts"
+msgstr "Nombre d'articles"
+
+#: ultimate-posts-widget.php:440
+msgid "Show title"
+msgstr "Montrer le titre"
+
+#: ultimate-posts-widget.php:445
+msgid "Show published date"
+msgstr "Montrer la date de publication"
+
+#: ultimate-posts-widget.php:449
+msgid "Date format"
+msgstr "Format de la date"
+
+#: ultimate-posts-widget.php:455
+msgid "Show post author"
+msgstr "Montrer l'auteur de l'article"
+
+#: ultimate-posts-widget.php:460
+msgid "Show comments count"
+msgstr "Montrer le nombre de commentaires"
+
+#: ultimate-posts-widget.php:465
+msgid "Show excerpt"
+msgstr "Montrer le résumé de l'article"
+
+#: ultimate-posts-widget.php:469
+msgid "Excerpt length (in words)"
+msgstr "Longueur du résumé (en mots)"
+
+#: ultimate-posts-widget.php:475
+msgid "Show content"
+msgstr "Montrer le contenu"
+
+#: ultimate-posts-widget.php:481
+msgid "Show read more link"
+msgstr "Montrer le lien \"Lire plus\""
+
+#: ultimate-posts-widget.php:496
+msgid "Show thumbnail"
+msgstr "Montrer la miniature"
+
+#: ultimate-posts-widget.php:504
+msgid "full"
+msgstr "Plein"
+
+#: ultimate-posts-widget.php:512
+msgid "Show post categories"
+msgstr "Montrer les catégories des articles"
+
+#: ultimate-posts-widget.php:517
+msgid "Show post tags"
+msgstr "Montrer les étiquettes des articles"
+
+#: ultimate-posts-widget.php:521
+msgid "Show custom fields (comma separated)"
+msgstr "Montrer des champs personnalisés (séparés par des virgules)"
+
+#: ultimate-posts-widget.php:531
+msgid "Show posts only from current category"
+msgstr "Montrer uniquement les articles de la catégorie en cours"
+
+#: templates/legacy.php:81 ultimate-posts-widget.php:535
+msgid "Categories"
+msgstr "Catégories"
+
+#: ultimate-posts-widget.php:537 ultimate-posts-widget.php:555
+#: ultimate-posts-widget.php:567
+msgid "&ndash; Show All &ndash;"
+msgstr "&ndash; Monter tout &ndash;"
+
+#: ultimate-posts-widget.php:549
+msgid "Show posts only from current tag"
+msgstr "Montrer uniquement les articles de l'étiquette en cours"
+
+#: templates/legacy.php:91 ultimate-posts-widget.php:553
+msgid "Tags"
+msgstr "Etiquettes"
+
+#: ultimate-posts-widget.php:565
+msgid "Post types"
+msgstr "Types d'article"
+
+#: ultimate-posts-widget.php:578
+msgid "Sticky posts"
+msgstr "Articles mis en avant"
+
+#: ultimate-posts-widget.php:580
+msgid "Show All Posts"
+msgstr "Montrer tous les articles"
+
+#: ultimate-posts-widget.php:581
+msgid "Hide Sticky Posts"
+msgstr "Cacher les articles mis en avant"
+
+#: ultimate-posts-widget.php:582
+msgid "Show Only Sticky Posts"
+msgstr "Montrer uniquement les articles mis en avant"
+
+#: ultimate-posts-widget.php:591
+msgid "Order by"
+msgstr "Trier par"
+
+#: ultimate-posts-widget.php:593
+msgid "Published Date"
+msgstr "Date de publication"
+
+#: ultimate-posts-widget.php:595
+msgid "Comment Count"
+msgstr "Nombre de commentaires"
+
+#: ultimate-posts-widget.php:596
+msgid "Random"
+msgstr "Aléatoire"
+
+#: ultimate-posts-widget.php:597
+msgid "Custom Field"
+msgstr "Champ Personnalisé"
+
+#: ultimate-posts-widget.php:603
+msgid "Custom field"
+msgstr "Champ personnalisé"
+
+#: ultimate-posts-widget.php:610
+msgid "Descending"
+msgstr "Décroissant"
+
+#: ultimate-posts-widget.php:611
+msgid "Ascending"
+msgstr "Croissant"
+
+#: ultimate-posts-widget.php:618
+msgid "Enjoy this plugin? Please <a href=\"http://pomelodesign.com/donate/\" target=\"_blank\">donate to support development</a>."
+msgstr "Vous aimez cette extension ? <a href=\"http://pomelodesign.com/donate/\" target=\"_blank\">Donnez pour aider à son développement</a>."
+
+#: templates/legacy.php:51 templates/standard.php:57
+msgid "By"
+msgstr "Par"
+
+#: templates/legacy.php:58
+msgid "No responses"
+msgstr "Aucune réponse"
+
+#: templates/legacy.php:58
+msgid "One response"
+msgstr "Une réponse"
+
+#: templates/legacy.php:58
+msgid "% responses"
+msgstr "% réponses"
+
+#: templates/legacy.php:127 templates/standard.php:151
+msgid "No posts found."
+msgstr "Aucun article trouvé."
+
+#: templates/standard.php:52 templates/standard.php:65
+msgid "|"
+msgstr "|"
+
+#: templates/standard.php:70
+msgid "No comments"
+msgstr "Aucun commentaire"
+
+#: templates/standard.php:70
+msgid "One comment"
+msgstr "Un commentaire"
+
+#: templates/standard.php:70
+msgid "% comments"
+msgstr "% commentaires"
+
+#: templates/standard.php:102
+msgid "Posted in"
+msgstr "Publié dans"
+
+#: templates/standard.php:112
+msgid "Tagged"
+msgstr "Etiqueté"
+
+#. Author URI of the plugin/theme
+msgid "http://pomelodesign.com"
+msgstr "http://pomelodesign.com"
+
+#. Author of the plugin/theme
+msgid "Boston Dell-Vandenberg"
+msgstr "Boston Dell-Vandenberg"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/ultimate-posts-widget/"
+msgstr "http://wordpress.org/plugins/ultimate-posts-widget/"
+
+#. Plugin Name of the plugin/theme
+msgid "Ultimate Posts Widget"
+msgstr "Ultimate Posts Widget"
+
+#: ultimate-posts-widget.php:598
+msgid "Menu Order"
+msgstr "Ordre du menu"
