@@ -1,8 +1,12 @@
 {
     "description": "DO NOT DELETE THIS FILE. This file is used to keep track of which files have been synced in the most recent deployment. If you delete this file a resync will need to be done (which can take a while) - read more: https://github.com/SamKirkland/FTP-Deploy-Action",
     "version": "1.0.0",
-    "generatedTime": 1611386462707,
+    "generatedTime": 1611498763409,
     "data": [
+        {
+            "type": "folder",
+            "name": ".idea"
+        },
         {
             "type": "folder",
             "name": ".vscode"
@@ -62,8 +66,8 @@
         {
             "type": "file",
             "name": "category.php",
-            "size": 646,
-            "hash": "076ea18f2a026411faf3c043d4650ccae69f47cec2b5c4b4f712ed4b2d4cc02a"
+            "size": 478,
+            "hash": "a10328986bed5950b1dd1a526f12f4ba7252021f8849d2274a2b1fce021c6e1d"
         },
         {
             "type": "file",
@@ -91,15 +95,15 @@
         },
         {
             "type": "file",
-            "name": "front-page.php",
-            "size": 479,
-            "hash": "5241335bae448dfe1a0a93615f6aac08fae4c85c2cb222f674d0465de367b461"
-        },
-        {
-            "type": "file",
             "name": "footer.php",
             "size": 8143,
             "hash": "4b02d80423f225af5b03f87348ba3caee7e8d00621db594a93a4b7178ffe408f"
+        },
+        {
+            "type": "file",
+            "name": "front-page.php",
+            "size": 479,
+            "hash": "5241335bae448dfe1a0a93615f6aac08fae4c85c2cb222f674d0465de367b461"
         },
         {
             "type": "file",
@@ -157,15 +161,15 @@
         },
         {
             "type": "file",
-            "name": "sidebar-page.php",
-            "size": 189,
-            "hash": "e257529d4342a87fc8b3744bb98c55ba69f0cc6ec555fdb828b0ccea18a24b2a"
-        },
-        {
-            "type": "file",
             "name": "sidebar-front-page.php",
             "size": 185,
             "hash": "b5a72ca7b43f1d8020f14da2c020ad1fa4d1fe5c19ad5b55149927b37790af27"
+        },
+        {
+            "type": "file",
+            "name": "sidebar-page.php",
+            "size": 189,
+            "hash": "e257529d4342a87fc8b3744bb98c55ba69f0cc6ec555fdb828b0ccea18a24b2a"
         },
         {
             "type": "file",
@@ -176,20 +180,20 @@
         {
             "type": "file",
             "name": "single-recipes-post.php",
-            "size": 3348,
-            "hash": "e1c0f3cdd8550e29a8d83f41041eebd26930566ca30e889a0f6f7a0be4a4d3db"
-        },
-        {
-            "type": "file",
-            "name": "single.php",
-            "size": 505,
-            "hash": "e28fd690a57ec0dd9bc5ae566818162c6f448de394bd37693fab2180eac6f111"
+            "size": 3660,
+            "hash": "e9906a43822125e4895e700a47c7d3ea113f0574be9aa0f59fc0b29cdb4eb016"
         },
         {
             "type": "file",
             "name": "single-restaurant.php",
             "size": 1074,
             "hash": "f69bbbaa5dcd00fbd67c0e43723a45a90e435e7203e51a9e771f3ed06cdfd135"
+        },
+        {
+            "type": "file",
+            "name": "single.php",
+            "size": 505,
+            "hash": "e28fd690a57ec0dd9bc5ae566818162c6f448de394bd37693fab2180eac6f111"
         },
         {
             "type": "file",
@@ -245,6 +249,24 @@
         },
         {
             "type": "file",
+            "name": ".idea/devrestaurant.iml",
+            "size": 458,
+            "hash": "8669b4bd6bc17e28b196ff908cde8f72482f603de3027d91e7f48a3e9004c903"
+        },
+        {
+            "type": "file",
+            "name": ".idea/modules.xml",
+            "size": 278,
+            "hash": "c4d49dc18b1c6d2d207bbb8bc9388401cdbe70602dc62e496df2e1c152113978"
+        },
+        {
+            "type": "file",
+            "name": ".idea/vcs.xml",
+            "size": 180,
+            "hash": "55768f1f84fb117f1d0fc383e180b5d0aa5e5e6584c8c4a2995c15b4237f0972"
+        },
+        {
+            "type": "file",
             "name": ".vscode/launch.json",
             "size": 253,
             "hash": "6e11474a220dbd8f071d59f01ac9e6545979722c3e671538873fa26e70cd7027"
@@ -276,8 +298,8 @@
         {
             "type": "file",
             "name": "template-parts/content-posts.php",
-            "size": 521,
-            "hash": "c75c46453b0bbcb8780b04a43f6464a12ece9c0f15f293be895921e7b584707a"
+            "size": 924,
+            "hash": "da8890f8aaa9db4df75cfcb15fa3ec0dc5a1ffce5093ee9c9896286c1e6d12ae"
         },
         {
             "type": "file",
@@ -378,8 +400,8 @@
         {
             "type": "file",
             "name": "assets/css/main.css",
-            "size": 19657,
-            "hash": "45858507fd855e483a74ddffedae7ccd1ac5c1855cd232e6302937dfcf53e329"
+            "size": 21256,
+            "hash": "641c872c390a9012049557292f21c07dccac8cf230692796d697ef6a1a1880f6"
         },
         {
             "type": "file",
